@@ -1,0 +1,6 @@
+1. created the folder.
+2. $npm init
+3. $npm install express --save
+
+TO Run the server
+$node app.js
